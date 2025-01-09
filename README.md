@@ -14,5 +14,7 @@
 * `docker compose up [-d]` - starts building
 * navigate browser to http://127.0.0.1:8080/cgi-bin/dbtest.pl
 
+# VERY IMPORTANT!
+* Remove /cgi-bin/printenv.pl befor going to production. it will leak DB-Credentials!
 
 absolute minimalistic setup
