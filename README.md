@@ -1,4 +1,4 @@
-# Boilerplate mod_perl with mysql in Docker
+# Boilerplate mod_perl with MySQL/Oracle in Docker
 ## SetUp MySQL
 * go to ./mysql
 * edit docker-compose.yaml and fill in User as well as connection-string and password for DB
